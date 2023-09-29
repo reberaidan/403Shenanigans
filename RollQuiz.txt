@@ -29,5 +29,5 @@ simon
 sulzer
 tar-rinse
 virga
-weinray-burr
+[x] weinray-burr
 [x] Kyle
